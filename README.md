@@ -7,7 +7,6 @@ This Tennis Analysis Project utilizes advanced computer vision and machine learn
 - **Player Tracking**: Uses YOLOv8 to detect, track, and visualize tennis players in video sequences.
 - **Ball Tracking and Interpolation**: Employs YOLOv5 to track the tennis ball and interpolates its position for frames where it's not detected.
 - **Court Line Detection**: Leverages retrained ResNet50 and DenseNet121 models to detect key points on the tennis court from monocular 2D footage.
-- **Depth Estimation**: Integrates the Depth Anything model to estimate and add depth information (z-coordinate) to the tennis ball's trajectory, transitioning from 2D to 3D tracking.
 - **Visualization**: Uses OpenCV to draw bounding boxes, player information, tennis ball trajectory, and court keypoints on new video frames.
 
 ## Getting Started
