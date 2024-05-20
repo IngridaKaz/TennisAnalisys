@@ -2,6 +2,8 @@
 
 This Tennis Analysis Project utilizes advanced computer vision and machine learning techniques to track and analyze tennis players and ball movements throughout video sequences. The project integrates YOLO models for object detection, Depth Anything for depth estimation, and CNNs for court line detection to provide comprehensive 2D and 3D analytics.
 
+[![Watch the video](https://img.youtube.com/vi/NxXz2C17hCo/hqdefault.jpg)](https://youtu.be/NxXz2C17hCo)
+
 ## Features
 
 - **Player Tracking**: Uses YOLOv8 to detect, track, and visualize tennis players in video sequences.
